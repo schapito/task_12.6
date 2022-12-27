@@ -1,0 +1,19 @@
+body {
+    background-color:antiquewhite;
+}
+p, h2, h4 {
+    text-align:center;
+}
+h2 {
+    color: blue;
+}
+p {
+    color: green;
+    font-weight: bold;
+}
+
+h4 {
+    color:purple;
+    font-size: 18px;
+    font-weight: bold;
+}
